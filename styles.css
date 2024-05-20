@@ -1,7 +1,7 @@
 body {
     height: 100vh;
     width: 100vw;
-    background-color: rgb(236, 242, 246);
+    background-color: whitesmoke;
    /* background-image: linear-gradient(315deg, #378b29 0%, #ffffff 74%);*/
     background-size: cover;
     background-repeat: no-repeat;
@@ -51,7 +51,7 @@ body {
 }
 
 .effect {
-    box-shadow: rgba(33, 183, 138, 0.25) 0px 6px 12px -2px, rgba(33, 183, 138, 0.3) 0px 3px 7px -3px;
+    box-shadow: rgba(33, 168, 183, 0.25) 0px 6px 12px -2px, rgba(33, 168, 183, 0.25) 0px 3px 7px -3px;
     border-radius: 16px;
 } 
 .side {
